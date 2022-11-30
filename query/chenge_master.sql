@@ -1,0 +1,1 @@
+change master to master_host='172.22.0.10', master_user='repl', master_password='hogehoge', master_log_file='mysql-bin.000004', master_log_pos=156;
